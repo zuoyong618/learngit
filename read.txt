@@ -4,5 +4,11 @@ print "Hello,world!"
 
 git commit -m "append GPL"
 
+<<<<<<< HEAD
 
 Creating a new branch is quick & simple.
+=======
+reating a new branch is quick AND simple.
+
+
+>>>>>>> featurel
